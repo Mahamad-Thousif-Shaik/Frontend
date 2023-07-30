@@ -1,0 +1,39 @@
+#DynamicColorContainer{
+    background-color: grey;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#RemoteContainer{
+    width:100px;
+    height: 100px;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#RedButton, #GreenButton, #BlueButton, #YellowButton{
+    width:50%;
+    color: white;
+}
+
+#RedButton{
+    background-color: Red;
+}
+
+#GreenButton{
+    background-color: green;
+}
+
+#BlueButton{
+    background-color: blue;
+}
+
+#YellowButton{
+    background-color: yellow;
+}
