@@ -1,0 +1,19 @@
+.home-section{
+    background-image: url("./Home.png");
+    height: 500px;
+    background-size: cover;
+}
+.home-section-nav{
+    height:50px;
+    text-decoration: underline;
+}
+.home-section-nav a{
+    color: white;
+}
+.section1-nav{
+    height:50px;
+    text-decoration: underline;
+}
+.section1-nav a{
+    color: grey;
+}
